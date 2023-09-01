@@ -6,7 +6,8 @@ The amount of carbon dioxide in the atmosphere is increasing, largely due to the
 This seasonal plot (or rose diagram) shows the monthly average concentration of carbon dioxide in the atmosphere over European countries, measured by satellite, from 2014 (light blue) to 2020 (dark red). The concentration has been above 400 parts per million (ppm) since September 2016. The plot is asymmetric, due to the absorption of carbon dioxide by growing plants in the summer months.
 
 ## Data Sources
-The CLIP uses the following datasets:
+The CLIP uses the following dataset:
+
 Column averaged carbon dioxide from OCO-2 generated with the FOCAL algorithm, version 10
 - https://github.com/littlepictures/datasets/commit/62aefa2839cb624d31d3dbe17d33d1308c42c60f
 - https://catalogue.ceda.ac.uk/uuid/070522ac6a5d4973a95c544beef714b4
