@@ -22,6 +22,6 @@ The lines were published as an image with and without the grid, then the line co
 ## CREDITS & LICENSE
 - Idea by: [Planetary Visions](http://www.planetaryvisions.com/index.php)
 - Processing Scripts by: [Planetary Visions](http://www.planetaryvisions.com/index.php)
-- Visualization by: [Planetary Visions](http://www.planetaryvisions.com/index.php)
+- Visualisation by: [Planetary Visions](http://www.planetaryvisions.com/index.php)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
