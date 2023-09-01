@@ -7,6 +7,7 @@ This seasonal plot (or rose diagram) shows the monthly average concentration of 
 
 ## Data Sources
 The CLIP uses the following datasets:
+Column averaged carbon dioxide from OCO-2 generated with the FOCAL algorithm, version 10
 - https://github.com/littlepictures/datasets/commit/62aefa2839cb624d31d3dbe17d33d1308c42c60f
 - https://catalogue.ceda.ac.uk/uuid/070522ac6a5d4973a95c544beef714b4
 
